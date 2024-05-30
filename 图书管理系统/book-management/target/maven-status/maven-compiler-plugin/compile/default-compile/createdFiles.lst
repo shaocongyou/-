@@ -1,0 +1,8 @@
+com/bloomcactus/book_management/controller/BookController.class
+com/bloomcactus/book_management/repository/BookRepository.class
+com/bloomcactus/book_management/entity/Book.class
+com/bloomcactus/book_management/config/GlobalExceptionHandler.class
+com/bloomcactus/book_management/exception/BookNotFoundException.class
+com/bloomcactus/book_management/entity/ErrorDetails.class
+com/bloomcactus/book_management/BookManagementApplication.class
+com/bloomcactus/book_management/service/BookService.class

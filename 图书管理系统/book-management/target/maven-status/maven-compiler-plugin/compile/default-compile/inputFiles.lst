@@ -1,0 +1,8 @@
+/workspaces/codespaces-blank/book-management/src/main/java/com/bloomcactus/book_management/BookManagementApplication.java
+/workspaces/codespaces-blank/book-management/src/main/java/com/bloomcactus/book_management/config/GlobalExceptionHandler.java
+/workspaces/codespaces-blank/book-management/src/main/java/com/bloomcactus/book_management/controller/BookController.java
+/workspaces/codespaces-blank/book-management/src/main/java/com/bloomcactus/book_management/entity/Book.java
+/workspaces/codespaces-blank/book-management/src/main/java/com/bloomcactus/book_management/entity/ErrorDetails.java
+/workspaces/codespaces-blank/book-management/src/main/java/com/bloomcactus/book_management/exception/BookNotFoundException.java
+/workspaces/codespaces-blank/book-management/src/main/java/com/bloomcactus/book_management/repository/BookRepository.java
+/workspaces/codespaces-blank/book-management/src/main/java/com/bloomcactus/book_management/service/BookService.java
